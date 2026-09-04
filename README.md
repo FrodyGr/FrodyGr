@@ -7,6 +7,7 @@
   <a href="https://frodygr.github.io/"><img src="https://img.shields.io/badge/Portfolio-frodygr.github.io-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/carlos-exposito-ceballo"><img src="https://img.shields.io/badge/LinkedIn-carlos--exposito--ceballo-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://central.sonatype.com/namespace/io.github.frodygr"><img src="https://img.shields.io/badge/Maven_Central-io.github.frodygr-orange?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven Central" /></a>
+  <a href="https://www.amazon.es/dp/B0H7RM4TQB"><img src="https://img.shields.io/badge/Libros_Amazon-Trilogía_Java-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Libros Amazon" /></a>
   <a href="https://ceanalisisdigital.es"><img src="https://img.shields.io/badge/Peritaje_Forense-CE_Análisis_Digital-emerald?style=for-the-badge&logo=shield&logoColor=white" alt="Peritaje Forense" /></a>
 </p>
 
@@ -19,6 +20,7 @@
 Soy **Carlos Expósito**, desarrollador y arquitecto de software con **+8 años de experiencia** profesional diseñando y construyendo plataformas digitales de alta concurrencia, arquitecturas backend resilientes y soluciones en la nube. 
 
 * 🏛️ **Arquitectura & Backend**: Especializado en **Java 21+**, **Spring Boot 3**, **Project Loom (Virtual Threads)**, arquitecturas basadas en eventos (Kafka, RabbitMQ) y microservicios *cloud-native* sobre **AWS** y **GCP**.
+* 📚 **Autor Técnico**: Autor de la **Trilogía de Libros Java en Amazon** (*Java POP*, *Java POA* y *Java POE*), cubriendo desde fundamentos de orientación a objetos hasta alta concurrencia, JVM internals y arquitecturas distribuidas.
 * ⚖️ **Peritaje Judicial Informático**: Perito Informático Forense Colegiado (**Nº 03624**, Barcelona). Especialista en análisis de evidencias digitales, cadena de custodia bajo norma **ISO/IEC 27037**, peritaje de ciberdelitos y ratificación judicial.
 * 📦 **Ecosistema Open Source**: Autor de **7 librerías y herramientas de alto impacto** en el ecosistema Java empresarial publicadas bajo el namespace `io.github.frodygr`.
 * 🎮 **Creatividad & Game Dev**: Apasionado del desarrollo de videojuegos experimentales en [itch.io](https://frodygr.itch.io/).
@@ -38,6 +40,20 @@ Soy **Carlos Expósito**, desarrollador y arquitecto de software con **+8 años 
 | **[AgentGuard](https://github.com/FrodyGr/AgentGuard)** | Firewall de seguridad para aplicaciones de IA en Java (Spring AI, LangChain4j). Enmascaramiento reversible de PII con validación Luhn, detección de Prompt Injections y aspecto `@SecurePrompt`. | [![GitHub](https://img.shields.io/badge/GitHub-AgentGuard-181717?logo=github)](https://github.com/FrodyGr/AgentGuard) <br/> [Wiki](https://github.com/FrodyGr/AgentGuard/wiki) |
 | **[EvidenceChain](https://github.com/FrodyGr/EvidenceChain)** | Libro mayor criptográfico inmutable con árboles de Merkle y SHA-256. Diseñado bajo estándares periciales judiciales, con verificación de inclusión $O(\log N)$ y aspecto `@AuditedEvidence`. | [![GitHub](https://img.shields.io/badge/GitHub-EvidenceChain-181717?logo=github)](https://github.com/FrodyGr/EvidenceChain) <br/> [Wiki](https://github.com/FrodyGr/EvidenceChain/wiki) |
 | **[LoomDoctor](https://github.com/FrodyGr/LoomDoctor)** | Diagnóstico en tiempo real de Virtual Threads en Java 21+. Detección de Carrier Thread Pinning en bloques sincronizados, monitor de saturación de pools de conexiones y Spring Boot Actuator. | [![GitHub](https://img.shields.io/badge/GitHub-LoomDoctor-181717?logo=github)](https://github.com/FrodyGr/LoomDoctor) <br/> [Wiki](https://github.com/FrodyGr/LoomDoctor/wiki) |
+
+</div>
+
+---
+
+## 📖 Libros Publicados (Trilogía Java en Amazon)
+
+<div align="center">
+
+| Libro | Nivel & Enfoque | Enlace Amazon |
+|:---|:---|:---:|
+| **[Java POP](https://www.amazon.es/Java-POP-Programaci%C3%B3n-Orientada-Principiantes/dp/B0H7RM4TQB)** | **Programación Orientada a Principiantes** <br/> Fundamentos de programación, POO, estructuras de datos, tipos y buenas prácticas en Java moderno. | [![Amazon](https://img.shields.io/badge/Amazon-Comprar_en_Papel_/_Kindle-FF9900?logo=amazon&logoColor=white)](https://www.amazon.es/Java-POP-Programaci%C3%B3n-Orientada-Principiantes/dp/B0H7RM4TQB) |
+| **[Java POA](https://www.amazon.es/gp/product/B0H8D56PM1)** | **Programación Orientada a Avanzados** <br/> Concurrencia profunda, diseño de arquitecturas empresariales, patrones de diseño y rendimiento en la JVM. | [![Amazon](https://img.shields.io/badge/Amazon-Comprar_en_Papel_/_Kindle-FF9900?logo=amazon&logoColor=white)](https://www.amazon.es/gp/product/B0H8D56PM1) |
+| **[Java POE](https://www.amazon.es/gp/product/B0H8JSP11F)** | **Programación Orientada a Expertos** <br/> Sistemas distribuidos, microservicios resilientes, seguridad criptográfica, optimización de bajo nivel y Cloud Native. | [![Amazon](https://img.shields.io/badge/Amazon-Comprar_en_Papel_/_Kindle-FF9900?logo=amazon&logoColor=white)](https://www.amazon.es/gp/product/B0H8JSP11F) |
 
 </div>
 
